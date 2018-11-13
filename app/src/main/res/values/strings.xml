@@ -1,0 +1,10 @@
+<resources>
+    <string name="hello_text">Hello:</string>
+    <string name="log_out">LogOut</string>
+    <string name="log_in">LogIn</string>
+    <string name="app_name">ParkingZone</string>
+    <string name="facebook_app_id">1783673221742065</string>
+    <string name="fb_login_protocol_scheme">fb1783673221742065</string>
+     <string name="title__activity_user_profile">UserProfileDetail</string>
+
+</resources>
